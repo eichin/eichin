@@ -2,7 +2,7 @@
 
 Primarily here for the community connections, but see also [my gitlab][gitlab].
 
-gitlab: https://gitlab.com/eichin
+[gitlab]: https://gitlab.com/eichin
 
 <!--
 **eichin/eichin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
