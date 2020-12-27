@@ -1,8 +1,10 @@
 ### Mark Eichin - unix greybeard
 
 Primarily here for the community connections, but see also [my gitlab][gitlab].
+Long term home [THOK][thok] (more old than good.)
 
 [gitlab]: https://gitlab.com/eichin
+[thok]: https://www.thok.org/
 
 <!--
 **eichin/eichin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
